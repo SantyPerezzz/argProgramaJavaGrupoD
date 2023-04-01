@@ -4,4 +4,11 @@
   <artifactId>argProgramaJavaGrupoD</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>grupoD</name>
+  <dependencies>
+	  <dependency>
+		  <groupId>org.junit.jupiter</groupId>
+		  <artifactId>junit-jupiter</artifactId>
+		  <version>5.9.2</version>
+	  </dependency>
+  </dependencies>
 </project>

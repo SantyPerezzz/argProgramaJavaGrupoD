@@ -42,7 +42,7 @@ public class Pronostico {
 		this.resultado = resultado;
 	}
 	
-	
+	// Completar metodo puntos()
 	public int puntos() {
 		return ;
 	}
